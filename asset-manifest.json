@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netfix-Clone/static/css/main.a253d34a.css",
+    "main.js": "/Netfix-Clone/static/js/main.a38b84c6.js",
+    "static/js/787.6e10420e.chunk.js": "/Netfix-Clone/static/js/787.6e10420e.chunk.js",
+    "index.html": "/Netfix-Clone/index.html",
+    "main.a253d34a.css.map": "/Netfix-Clone/static/css/main.a253d34a.css.map",
+    "main.a38b84c6.js.map": "/Netfix-Clone/static/js/main.a38b84c6.js.map",
+    "787.6e10420e.chunk.js.map": "/Netfix-Clone/static/js/787.6e10420e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a253d34a.css",
+    "static/js/main.a38b84c6.js"
+  ]
+}
